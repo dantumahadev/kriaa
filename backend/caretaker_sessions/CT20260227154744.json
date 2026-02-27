@@ -1,0 +1,30 @@
+{
+  "session_id": "CT20260227154744",
+  "patient_name": "fgdgdt",
+  "emergency_contact": "driutyuiyiut",
+  "discharge_summary": "dsfgkuyktuyyi",
+  "prescription": "fuyutgjkhjk",
+  "dietary_conditions": "",
+  "parsed": {
+    "medications": [],
+    "dietary_restrictions": [],
+    "recovery_duration_days": 7,
+    "key_symptoms_to_watch": [
+      "fever",
+      "pain",
+      "swelling"
+    ],
+    "daily_checkin_questions": [
+      "Have you taken your medications?",
+      "How is your pain level (1-10)?",
+      "Any new symptoms today?",
+      "Did you eat as per your dietary plan?"
+    ],
+    "post_surgery_restrictions": []
+  },
+  "responses": [],
+  "alerts": [],
+  "started_at": "2026-02-27 15:47:44",
+  "status": "active",
+  "report": null
+}

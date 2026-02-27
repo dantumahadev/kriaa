@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+SpeechRecognition
+pyttsx3
+pyaudio
+pypdf
+python-multipart
